@@ -1,0 +1,39 @@
+.modal {
+    background-color: #d9534f85;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    display: none;
+}
+
+.modal-on{
+    display: block;
+}
+
+
+.modal-message {
+    background-color: white;
+
+    font-weight: bold;
+    border-radius: 7px;
+    padding: 3% 3%;
+    margin: 5% 5%;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: center;
+    color: black;
+}

@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.carousel .item {
+    height: 500px;
+    background-color: #214e21;
+}
+
+a,
+p,
+h2,
+h4 {
+    color: #163c16;
+}
+
+.terms {
+    font-size: 18px;
+}
+
+th, td {
+    color: black;
+    font-size: 1.2em;
+    border: 5px dotted green;
+    padding: 10px 20px;
+    padding: 0 auto;
+}
+
+table {
+    margin: 0 auto 40px; 
+    border: 5px dotted green;
+}

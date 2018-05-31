@@ -1,0 +1,66 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+th,
+td {
+    border: 5px dotted green;
+    padding: 5px 10px;
+    font-size: 1.1em;
+}
+
+table {
+    margin: 0 auto 40px; 
+    background-color: white;
+}
+
+.clear{
+    clear: both;
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+.nav-btns {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.nav-btn {
+    float: left;
+    width: 40%;
+    margin-bottom: 30px;    
+}
+.nav-btn-clear {
+    float: left;
+    width: 20%;
+    margin-bottom: 30px;    
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+}
+
+.states {
+        margin-bottom: 20px;
+}
+
+.state {
+    float: left;
+    width: 46%;
+    margin: 0 10px 20px; 
+    color: black;
+}
+.stateCashPos {
+    color: black;
+    margin: 0 auto;
+}
+
+.tdCashPos {
+    border: 5px dotted green;
+    padding: 7px 10px;
+    font-size: 16px;
+}
